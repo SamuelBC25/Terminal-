@@ -1,0 +1,11 @@
+total 80
+drwxrwxr-x  3 samuel-bc samuel-bc  4096 dic  5 09:18 .
+drwxrwxr-x 17 samuel-bc samuel-bc  4096 dic  2 13:06 ..
+drwxrwxr-x  7 samuel-bc samuel-bc  4096 dic  4 13:02 .git
+-rw-rw-r--  1 samuel-bc samuel-bc     0 dic  5 09:22 hola.txt
+-rw-r--r--  1 samuel-bc samuel-bc    64 dic  5 09:21 notas.txt
+-rwxrwxr-x  1 samuel-bc samuel-bc 16824 dic  4 12:09 pr
+-rwxrwxr-x  1 samuel-bc samuel-bc 16872 dic  5 09:18 proyecto
+-rwxrwxr-x  1 samuel-bc samuel-bc 16824 dic  4 12:18 PROYECTO
+-rw-rw-r--  1 samuel-bc samuel-bc  3785 dic  5 09:17 proyecto.c
+-rw-rw-r--  1 samuel-bc samuel-bc     0 dic  4 12:34 proyecto.txt
