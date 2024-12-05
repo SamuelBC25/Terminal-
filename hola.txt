@@ -9,3 +9,9 @@ drwxrwxr-x  7 samuel-bc samuel-bc  4096 dic  4 13:02 .git
 -rwxrwxr-x  1 samuel-bc samuel-bc 16824 dic  4 12:18 PROYECTO
 -rw-rw-r--  1 samuel-bc samuel-bc  3785 dic  5 09:17 proyecto.c
 -rw-rw-r--  1 samuel-bc samuel-bc     0 dic  4 12:34 proyecto.txt
+
+
+
+
+git config --global user.email "irvinbuendia053@gmail.com"
+git config --global user.name "SamuelBC25"
